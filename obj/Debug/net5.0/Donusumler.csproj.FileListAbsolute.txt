@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.exe
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\ref\Donusumler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\bin\Debug\net5.0\Donusumler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\ref\Donusumler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\Donusumler\obj\Debug\net5.0\Donusumler.genruntimeconfig.cache
